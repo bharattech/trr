@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: trr-web
+  description: TRR website
+spec:
+  type: website
+  lifecycle: production
+  owner: dev-team 
